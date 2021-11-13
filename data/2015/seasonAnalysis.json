@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Chris",
+    "regularSeasonWins": 7.0,
+    "leadingWeeks": 2.0,
+    "regularSeasonPoints": 1932.5,
+    "playoffWins": 0.0,
+    "championships": 0.0,
+    "finalStanding": 4.0
+  },
+  {
+    "name": "Noah",
+    "regularSeasonWins": 12.0,
+    "leadingWeeks": 5.0,
+    "regularSeasonPoints": 2126.0,
+    "playoffWins": 1.0,
+    "championships": 0.0,
+    "finalStanding": 2.0
+  },
+  {
+    "name": "John",
+    "regularSeasonWins": 6.0,
+    "leadingWeeks": 2.0,
+    "regularSeasonPoints": 1782.0,
+    "playoffWins": 0.0,
+    "championships": 0.0,
+    "finalStanding": 7.0
+  },
+  {
+    "name": "Neil",
+    "regularSeasonWins": 7.0,
+    "leadingWeeks": 3.0,
+    "regularSeasonPoints": 1887.5,
+    "playoffWins": 0.0,
+    "championships": 0.0,
+    "finalStanding": 3.0
+  },
+  {
+    "name": "Andoni",
+    "regularSeasonWins": 8.0,
+    "leadingWeeks": 1.0,
+    "regularSeasonPoints": 1968.5,
+    "playoffWins": 2.0,
+    "championships": 1.0,
+    "finalStanding": 1.0
+  },
+  {
+    "name": "Max",
+    "regularSeasonWins": 8.0,
+    "leadingWeeks": 2.0,
+    "regularSeasonPoints": 1915.0,
+    "playoffWins": 0.0,
+    "championships": 0.0,
+    "finalStanding": 6.0
+  },
+  {
+    "name": "Alton",
+    "regularSeasonWins": 3.0,
+    "leadingWeeks": 0.0,
+    "regularSeasonPoints": 1617.0,
+    "playoffWins": 0.0,
+    "championships": 0.0,
+    "finalStanding": 9.0
+  },
+  {
+    "name": "Mark",
+    "regularSeasonWins": 5.0,
+    "leadingWeeks": 0.0,
+    "regularSeasonPoints": 1842,
+    "playoffWins": 0.0,
+    "championships": 0.0,
+    "finalStanding": 5.0
+  }
+]

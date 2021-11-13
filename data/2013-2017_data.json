@@ -1,0 +1,114 @@
+{
+  "players": [
+    {
+      "name": "Chris",
+      "regularSeasonWins": [6.0, 4.0, 7.0, 9.0, 5.0],
+      "leadingWeeks": [1.0, 0.0, 2.0, 2.0, 1.0],
+      "bigGames": [0.0, 1.0, 1.0, 0.0, 0.0],
+      "regularSeasonPoints": [1601.0, 1766.5, 1932.5, 1991.5, 1644.11],
+      "playoffWins": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "championships": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "finalStanding": [11.0, 10.0, 4.0, 4.0, 7.0]
+    },
+    {
+      "name": "Sean",
+      "regularSeasonWins": [0.0, 0.0, 0.0, 3.0, 9.0],
+      "leadingWeeks": [0.0, 0.0, 0.0, 0.0, 2.0],
+      "bigGames": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "regularSeasonPoints": [0.0, 0.0, 0.0, 1640.5, 1915.62],
+      "playoffWins": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "championships": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "finalStanding": [0.0, 0.0, 0.0, 6.0, 3.0]
+    },
+    {
+      "name": "Noah",
+      "regularSeasonWins": [6.0, 7.0, 12.0, 7.0, 5.0],
+      "leadingWeeks": [1.0, 2.0, 5.0, 1.0, 2.0],
+      "bigGames": [0.0, 3.0, 3.0, 0.0, 0.0],
+      "regularSeasonPoints": [1819.0, 2080.5, 2126.0, 1803.5, 1804.85],
+      "playoffWins": [0.0, 0.0, 1.0, 0.0, 0.0],
+      "championships": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "finalStanding": [10.0, 5.0, 2.0, 5.0, 5.0]
+    },
+    {
+      "name": "John",
+      "regularSeasonWins": [9.0, 8.0, 6.0, 6.0, 5.0],
+      "leadingWeeks": [0.0, 4.0, 2.0, 0.0, 2.0],
+      "bigGames": [0.0, 1.0, 0.0, 0.0, 0.0],
+      "regularSeasonPoints": [1923.0, 2206.5, 1782.0, 1710.0, 1851.87],
+      "playoffWins": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "championships": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "finalStanding": [4.0, 8.0, 7.0, 8.0, 6.0]
+    },
+    {
+      "name": "Neil",
+      "regularSeasonWins": [7.0, 9.0, 7.0, 11.0, 8.0],
+      "leadingWeeks": [2.0, 1.0, 3.0, 2.0, 2.0],
+      "bigGames": [0.0, 0.0, 1.0, 1.0, 0.0],
+      "regularSeasonPoints": [1912.0, 2072.5, 1887.5, 2041.0, 1957.2],
+      "playoffWins": [0.0, 2.0, 0.0, 1.0, 0.0],
+      "championships": [0.0, 1.0, 0.0, 0.0, 0.0],
+      "finalStanding": [5.0, 1.0, 3.0, 2.0, 4.0]
+    },
+    {
+      "name": "Spenser",
+      "regularSeasonWins": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "leadingWeeks": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "bigGames": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "regularSeasonPoints": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "playoffWins": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "championships": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "finalStanding": [0.0, 0.0, 0.0, 0.0, 0.0]
+    },
+    {
+      "name": "Andoni",
+      "regularSeasonWins": [5.0, 9.0, 8.0, 8.0, 11.0],
+      "leadingWeeks": [1.0, 1.0, 1.0, 4.0, 4.0],
+      "bigGames": [0.0, 0.0, 1.0, 1.0, 2.0],
+      "regularSeasonPoints": [1790.0, 1966.0, 1968.5, 2022.0, 2259.0],
+      "playoffWins": [0.0, 0.0, 2.0, 2.0, 1.0],
+      "championships": [0.0, 0.0, 1.0, 1.0, 0.0],
+      "finalStanding": [9.0, 3.0, 1.0, 1.0, 2.0]
+    },
+    {
+      "name": "Max",
+      "regularSeasonWins": [0.0, 4.0, 8.0, 1.0, 3.0],
+      "leadingWeeks": [0.0, 0.0, 2.0, 0.0, 0.0],
+      "bigGames": [0.0, 1.0, 1.0, 0.0, 0.0],
+      "regularSeasonPoints": [0.0, 1763.5, 1915.0, 1174.5, 1764.36],
+      "playoffWins": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "championships": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "finalStanding": [0.0, 7.0, 6.0, 10.0, 8.0]
+    },
+    {
+      "name": "Alton",
+      "regularSeasonWins": [8.0, 3.0, 3.0, 5.0, 0.0],
+      "leadingWeeks": [3.0, 1.0, 0.0, 1.0, 0.0],
+      "bigGames": [2.0, 0.0, 0.0, 1.0, 0.0],
+      "regularSeasonPoints": [2095.0, 1597.0, 1617.0, 1698.0, 0.0],
+      "playoffWins": [2.0, 0.0, 0.0, 0.0, 0.0],
+      "championships": [1.0, 0.0, 0.0, 0.0, 0.0],
+      "finalStanding": [1.0, 9.0, 9.0, 9.0, 0.0]
+    },
+    {
+      "name": "Garett",
+      "regularSeasonWins": [0.0, 0.0, 0.0, 2.0, 0.0],
+      "leadingWeeks": [0.0, 0.0, 0.0, 2.0, 0.0],
+      "bigGames": [0.0, 0.0, 0.0, 1.0, 0.0],
+      "regularSeasonPoints": [0.0, 0.0, 0.0, 1680.0, 0.0],
+      "playoffWins": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "championships": [0.0, 0.0, 0.0, 0.0, 0.0],
+      "finalStanding": [0.0, 0.0, 0.0, 7.0, 0.0]
+    },
+    {
+      "name": "Mark",
+      "regularSeasonWins": [10.0, 8.0, 5.0, 12.0, 9.0],
+      "leadingWeeks": [2.0, 3.0, 0.0, 3.0, 3.0],
+      "bigGames": [0.0, 2.0, 1.0, 0.0, 1.0],
+      "regularSeasonPoints": [1966, 2115.5, 1842, 2028, 2191.06],
+      "playoffWins": [0.0, 1.0, 0.0, 0.0, 2.0],
+      "championships": [0.0, 1.0, 0.0, 0.0, 1.0],
+      "finalStanding": [3.0, 2.0, 5.0, 3.0, 1.0]
+    }
+  ]
+}
