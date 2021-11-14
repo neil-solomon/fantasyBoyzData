@@ -1,0 +1,4 @@
+play=f post=t champ=f 
+play=f post=t champ=f 
+play=f post=t champ=f 
+play=t post=t champ=t 
