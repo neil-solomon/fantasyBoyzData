@@ -26,5 +26,5 @@ for i in range(len(dataBySeason)):
         dataBySeason[2013 + i].append(newPlayerData)
 
 for season in dataBySeason:
-    with open(f"../data/{season}/seasonAnalysis.json", "w+") as file:
+    with open(f"../data/{season}/seasonStats.json", "w+") as file:
         json.dump(dataBySeason[season], file)
